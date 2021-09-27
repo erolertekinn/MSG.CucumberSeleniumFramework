@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.msg.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 59.634 s <<< FAILURE! - in com.msg.runners.CukesRunner
+Verify the total price of the items in the shopping cart(Shopping cart price verification)  Time elapsed: 59.217 s  <<< FAILURE!
+java.lang.AssertionError: expected:<5996> but was:<5998>
+
